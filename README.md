@@ -1,2 +1,2 @@
 # Mini-Ex
-![alt text](and.png "Evt. beskrivelse af billede")
+![alt text](cyan.png "Evt. beskrivelse af billede")
