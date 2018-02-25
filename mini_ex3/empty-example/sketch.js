@@ -1,9 +1,9 @@
 var song;
 var myFont;
 function preload (){
-  img = loadImage ('coffee.png');
-   song = loadSound('Afternoon.mp3');
-   myFont = loadFont('prisma.ttf');
+  img = loadImage ('assets/coffee.png');
+   song = loadSound('assets/Afternoon.mp3');
+   myFont = loadFont('assets/prisma.ttf');
 }
 
 function setup() {
