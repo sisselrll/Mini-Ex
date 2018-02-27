@@ -3,7 +3,7 @@ Link: https://rawgit.com/sisselrll/Mini-Ex/master/mini_ex3/empty-example/index.h
 
 ### My program 
 
-My throbber consists of a coffee cup moving around in a circle in a continuos tempo. Behind the throbber the text "Enjoy a cup of coffe while you wait!" fills up most of the canvas size. 
+My throbber consists of a coffee cup moving around in a circle in a continuos tempo. Behind the throbber the text "Enjoy a cup of coffe while you wait!" fills up most of the canvas size. When you start the program, a song of my choice starts playing as well. 
 Technically the design of the throbber is based on a time-related function in the form of a drawThrobber function, that rotates the coffee cup in the 360 degree circle. The default rotation of the image of the cup had the rotating around itselt (So that the coffe would spill out the cup). To prevent that, I had to both rotate the radians of the circle variable positively and negatively. In that way the coffee cup is always 'standing'. 
 The pattern of the cup, that actucally is the effect that makes us percieve the throbber as a circle, is made of a partly transparent rectangle behind the throbber that keeps on drawing itself. 
 
