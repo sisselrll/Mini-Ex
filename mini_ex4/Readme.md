@@ -2,6 +2,6 @@ Link: https://rawgit.com/sisselrll/Mini-Ex/master/mini_ex4/empty-example/index.h
 
 ### My program 
 
-![alt text](screenshot.png)
+![alt text](empty-example/screenshot.png)
 
 ### Data Capture 
