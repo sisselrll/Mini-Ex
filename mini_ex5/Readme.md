@@ -6,7 +6,7 @@ The complecity for me in this program, was to allow one to click on square and t
 
 ![alt text](empty-example/screenshot.png)
 
-### The Digital Culture 
+### The Digital Culture Context 
 
 
 
