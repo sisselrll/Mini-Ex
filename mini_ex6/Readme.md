@@ -4,7 +4,7 @@ Link  https://rawgit.com/sisselrll/Mini-Ex/master/mini_ex6/empty-example/index.h
 
 My program consist of a lot of cicles covering the entire canvas, all having their sizes defined by the level of the amplitude of the song playing in the background. This makes the program and the expression of the of the pattern created by the circles evovle as the song becomes more intense. I'm not quiete sure if I understand the definiton of rules correctly, but I see three overall rules. First there is a rule of how the circle's size is defined. This rule is stated in line 20, where the variable "size" defines how big or small the circles should be according to the level of amplitude. Second there is a rule about how the for loop of the circle should show - The gap between the circle is set for both the x and y axis in line 21-22. Lastly there is a rule in line 44-45 of randomly shifting between the array of 3 different words. The three rules is generating a canvas with a random look to it, since the circles create different patterns as the song evolves. 
 
-![alt text](mini_ex6/empty-example/screenshot.png)
+![alt text](screenshot.png)
 
 ### The notion of generativity 
 
