@@ -1,10 +1,13 @@
 # Mini exercise 7
 
-##### link:
-https://estermarieaa.github.io/Mini-exercises/mini_ex07
+Link  https://rawgit.com/sisselrll/Mini-Ex/master/mini_ex7/empty-example/index.html
+
+![alt text](screenshotcom.png)
 
 ##### Collaborated with: 
 Ester Aagaard (https://github.com/estermarieAA)
+
+
 
 
 
