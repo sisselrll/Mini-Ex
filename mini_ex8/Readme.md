@@ -1,8 +1,8 @@
-##### How cloudy? 
+#### How cloudy? 
 
 Link  https://rawgit.com/sisselrll/Mini-Ex/master/mini_ex8/empty-example/index.html
 
-Since we had some struggle with having the program work as a link, this is a proof that is has been working: 
+Since we struggled with having the program work as a link, this is a proof that is has been working: 
 https://www.youtube.com/watch?v=dmm5WuZKEUc&feature=youtu.be 
 
 The program is made in collaboration with Nina Borgbjerg https://github.com/nborgbjerg 
