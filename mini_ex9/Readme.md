@@ -1,4 +1,11 @@
 ### Indidividual work 
+Revisit your previous mini exercises and select the most technically complex one
+Draw an individual flow chart to present the program (Pay attention to: which items you select to present through a flow chart)
+In the readme file:
+Attach the flowchart image
+You need to have a hyperlink that links to your chosen mini_ex folder.
+What may be the difficulty in drawing the flow chart?
+
 
 ### Common group work 
 
@@ -25,4 +32,8 @@ The program revolves around the subject of receiving and giving empathy. In this
 Challenges and how to solve them: 
 We need to learn how to use facetracking in Javascript, and get familiar with this. We need to create an avatar that will follow you facial expressions, and therefore different parts of the avatars face has to be connected with different tracking points on the users face, so the avatar can mimic the users expressions. 
 
+
+#### How is this flow chart different from the one that you had in #2 (in terms of the role of a flow chart)?
+
+#### If you have to bring the concept of algorithms from flow charts to a wider cultural context, how would you reflect the notion of algorithms? (see if you could refer to the text and articulate your thoughts?)
 
