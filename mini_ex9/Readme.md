@@ -5,7 +5,7 @@ In the readme file:
 Attach the flowchart image
 You need to have a hyperlink that links to your chosen mini_ex folder.
 What may be the difficulty in drawing the flow chart?
-
+![alt text](mini_.png)
 
 ### Common group work 
 
