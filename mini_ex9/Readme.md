@@ -1,10 +1,8 @@
 ### Indidividual work 
-Revisit your previous mini exercises and select the most technically complex one
-Draw an individual flow chart to present the program (Pay attention to: which items you select to present through a flow chart)
-In the readme file:
-Attach the flowchart image
-You need to have a hyperlink that links to your chosen mini_ex folder.
-What may be the difficulty in drawing the flow chart?
+Link to the mini exercise: https://github.com/sisselrll/Mini-Ex/tree/master/mini_ex4 
+
+What I concider being difficult in drawing this flowchart is about detemining how many details to include. I choose not to go in details with the technical aspects behind the program, but rather focusing on the function of the program interface. This means that you should be able to understand it even though you don't have any code experience. When choosing this approach in making the flowchart, I also leave out some target groups. For example it might be too simple to present for people with a coding background. They wouldn't get an idea of how the functions behind the program works. 
+
 ![alt text](mini_.png)
 
 ### Common group work 
