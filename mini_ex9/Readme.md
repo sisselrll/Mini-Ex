@@ -33,7 +33,7 @@ We need to learn how to use facetracking in Javascript, and get familiar with th
 
 #### Individual thougths
 
-The difference in the flowchart from my mini exercise 4 and this mini exercise, is that 
+The difference in the flowchart from my mini exercise 4 and the two in this mini exercise, mainly is the order in which I made the flowchart. The flowchart over mini_ex4 I made after the program was coded and finished, the two ohters we made as a brainstorm of two programs that where not even coded yet. Since I choose to focus on the interface interactions rather than the technical functions, you wouldn't notice this different. I could have gone more into to the technical functions in the flowchart over mini_ex4, but this would be a challenge in the two others. 
 
-The flowchart(s) is in a very rough way, illustrating the algorithm behind the program. The same way algorithms are seen as recipies, instructions or tasks to achieve a certain result, the flowchart simply simplifies these instructions or tasks. In a wider cultural context, flowcharts is a tool to bridge the gap between code and culture - The flowchart can function as a tool for creating greater accessibility for everyone. Humans are in generl good at following instructions, rules or tasks, it just needs to be presented in a tangible way. 
+The flowchart(s) is in a very rough way, illustrating the algorithm behind the program. The same way algorithms are seen as recipies, instructions or tasks to achieve a certain result, the flowcharts simply simplifies these instructions or tasks. In a wider cultural context, flowcharts is a tool to bridge the gap between code and culture - The flowcharts can function as a tool for creating greater accessibility for everyone. Humans are in generl good at following instructions, rules or tasks, it just needs to be presented in a tangible way. 
 
