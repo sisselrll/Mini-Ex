@@ -31,7 +31,9 @@ Challenges and how to solve them:
 We need to learn how to use facetracking in Javascript, and get familiar with this. We need to create an avatar that will follow you facial expressions, and therefore different parts of the avatars face has to be connected with different tracking points on the users face, so the avatar can mimic the users expressions. 
 
 
-#### How is this flow chart different from the one that you had in #2 (in terms of the role of a flow chart)?
+#### Individual thougths
 
-#### If you have to bring the concept of algorithms from flow charts to a wider cultural context, how would you reflect the notion of algorithms? (see if you could refer to the text and articulate your thoughts?)
+The difference in the flowchart from my mini exercise 4 and this mini exercise, is that 
+
+The flowchart(s) is in a very rough way, illustrating the algorithm behind the program. The same way algorithms are seen as recipies, instructions or tasks to achieve a certain result, the flowchart simply simplifies these instructions or tasks. In a wider cultural context, flowcharts is a tool to bridge the gap between code and culture - The flowchart can function as a tool for creating greater accessibility for everyone. Humans are in generl good at following instructions, rules or tasks, it just needs to be presented in a tangible way. 
 
